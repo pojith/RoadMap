@@ -87,10 +87,9 @@ Gain practical experience through internships and work opportunities. Real-world
 
 ## Resources
 
-- [Codecademy](https://www.codecademy.com/)
+
 - [LeetCode](https://leetcode.com/)
 - [GitHub](https://github.com/)
-- [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 
 Remember, the path to success in Computer Science is a journey, not a destination. Embrace challenges, stay curious, and enjoy the process of continuous learning. Best of luck on your exciting adventure in the world of Computer Science!
